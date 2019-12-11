@@ -30,5 +30,5 @@ Upon completing the lab, you will know how to:
 
 ### Step 1. Please click on the link to download the instructions to your machine
 
-[Instructions](https://github.com/bleonardb3/DS_POT_12-11/raw/master/Lab-4/Watson%20OpenScale%20v1.pdf)
+[Instructions](https://github.com/bleonardb3/DS_POT_12-11/raw/master/Lab-4/Watson%20OpenScale%20v2.pdf)
 
